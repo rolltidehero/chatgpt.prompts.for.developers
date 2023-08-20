@@ -11,43 +11,6 @@ ___
 
 # **👉 Table Of Contents 👉**
 
-- *[Best ChatGPT Prompts For Programmers](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#Best-ChatGPT-Prompts-For-Programmers)*
-    -   [1\. General Coding Prompts](/#3-General-Coding-Prompts)
-    -   [2\. Prompts For Generating Code Snippets](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#2-Prompts-For-Generating-Code-Snippets)
-    -   [3\. Prompts For Completing Code](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#3-Prompts-For-Completing-Code)
-    -   [4\. Prompts For Explaining Functions/Concepts](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#4-Prompts-For-Explaining-FunctionsConcepts)
-    -   [5\. Prompts For Debugging](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#5-Prompts-For-Debugging)
-    -   [6\. Prompts For Code Conversion](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#6-Prompts-For-Code-Conversion)
-    -   [7\. Prompts For Code Refactoring](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#7-Prompts-For-Code-Refactoring)
-    -   [8\. Prompts For Generating Data](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#8-Prompts-For-Generating-Data)
-    -   [9\. Prompts For Using Best Practices](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#9-Prompts-For-Using-Best-Practices)
-    -   [10\. Prompts For Optimising Code](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#10-Prompts-For-Optimising-Code)
-    -   [11\. Prompts For Predicting Errors In Code](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#11-Prompts-For-Predicting-Errors-In-Code)
-    -   [12\. Prompts For Development Phase/ System Design And Architecture](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#12-Prompts-For-Development-Phase-System-Design-And-Architecture)
-    -   [13\. Prompts For Web Development](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#13-Prompts-For-Web-Development)
-    -   [14\. Prompts For Web Development Architecture](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#14-Prompts-For-Web-Development-Architecture)
-    -   [15\. Prompts For Testing](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#15-Prompts-For-Testing)
-    -   [16\. Prompts For Deployment Phase](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#16-Prompts-For-Deployment-Phase)
-    -   [17\. Prompts For Code Reviewing](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#17-Prompts-For-Code-Reviewing)
-    -   [18\. Prompts To Make Chatgpt Act As A Given Entity](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#18-Prompts-To-Make-Chatgpt-Act-As-A-Given-Entity)
-    -   [19\. Prompts For Query Optimization](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#19-Prompts-For-Query-Optimization)
-    -   [20\. Prompts To Develop Chatbots](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#20-Prompts-To-Develop-Chatbots)
-    -   [21\. Prompts For User Interface Designing](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#21-Prompts-For-User-Interface-Designing)
-    -   [23\. Prompts for working with HTML](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#23-Prompts-for-working-with-HTML)
-    -   [24\. Prompts For Using CSS](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#24-Prompts-For-Using-CSS)
-    -   [25\. Prompts For Working With DBMS](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#25-Prompts-For-Working-With-DBMS)
-    -   [26\. Prompts For Working With Javascript](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#26-Prompts-For-Working-With-Javascript)
-    -   [27\. Prompts for API & Data Parsing](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#27-Prompts-for-API-Data-Parsing)
-    -   [28\. Prompts For Security](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#28-Prompts-For-Security)
-    -   [29\. Prompts For Some Coding Shortcuts](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#29-Prompts-For-Some-Coding-Shortcuts)
-    -   [30\. Prompts For Generating Cheat Sheets](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#30-Prompts-For-Generating-Cheat-Sheets)
-    -   [31\. Prompts for Documentation](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#31-Prompts-for-Documentation)
-    -   [32\. Prompts For Working With Shell](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#32-Prompts-For-Working-With-Shell)
-    -   [33\. Prompts For Personalised Learning](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#33-Prompts-For-Personalised-Learning)
-    -   [34\. Prompts For Recommendations Of Tools And Resources](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#34-Prompts-For-Recommendations-Of-Tools-And-Resources)
-    -   [35\. Prompts For Optimizing Software Performance](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#35-Prompts-For-Optimizing-Software-Performance)
-    -   [36\. Prompts For Planning Project](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#36-Prompts-For-Planning-Project)
-    -   [37\. Prompts For Preparing SRS Documents](https://www.theinsaneapp.com/2023/07/chatgpt-prompts-for-developers.html#37-Prompts-For-Preparing-SRS-Documents)
 ### - 1\. General Coding Prompts
 
   - Create a [language] script to parse [file format] and extract [information] with the following requirements: [requirements list].
